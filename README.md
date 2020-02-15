@@ -1,4 +1,4 @@
-![Frontend Workshops](social.png)
+<img src="social.png" width="640">
 
 A collection of training notes and exercises covering a range of frontend topics.
 
