@@ -1,6 +1,6 @@
-# Frontend Workshops ✨
+# Frontend Workshops 🎓✨
 
-A collection of notes and exercises covering a range of frontend topics, for use in training.
+A collection of training notes and exercises covering a range of frontend topics.
 
 ## Topics covered
 
