@@ -1,3 +1,5 @@
+<img src="img/header.png" width="500">
+
 A collection of training notes and exercises covering a range of frontend topics.
 
 ---
