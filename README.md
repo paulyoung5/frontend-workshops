@@ -1,4 +1,6 @@
-<img src="social.png" width="640">
+<div style="text-align: center">
+    <img src="social.png" width="640">
+</div>
 
 A collection of training notes and exercises covering a range of frontend topics.
 
