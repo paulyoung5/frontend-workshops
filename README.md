@@ -4,5 +4,6 @@ A collection of notes and exercises covering a range of frontend topics, for use
 
 ## Topics
 
-*  ES6
-*  Vue
+- ES6
+  - [Strings](./es6-crash-course/01-strings.js)
+- Vue
