@@ -5,21 +5,22 @@ A collection of training notes and exercises covering a range of frontend topics
 ---
 
 ## Topics covered
+Topics are WIP.
 
 - **ES6 and beyond**
-    *  Variable declaration
-    *  Writing functions
-    *  Rest and Spread syntax
-    *  Classes
-    *  Importing and exporting modules
+    * [ ] Variable declaration
+    * [ ] Writing functions
+    * [ ] Rest and Spread syntax
+    * [ ] Classes
+    * [ ] Importing and exporting modules
 - **Vue**
-    *  Writing Vue components
-    *  Documenting components
-    *  Storing page-wide state in Vuex
+    * [ ] Writing Vue components
+    * [ ] Documenting components
+    * [ ] Storing page-wide state in Vuex
 - **Testing with Jest**
-    *  for ordinary JS functions
-    *  for Vue components
-    *  for Vuex store modules
+    * [ ] for ordinary JS functions
+    * [ ] for Vue components
+    * [ ] for Vuex store modules
 
 ---
 
