@@ -1,4 +1,4 @@
-<img src="img/header.png" width="500">
+<img src="img/header.svg" width="500">
 
 A collection of training notes and exercises covering a range of frontend topics.
 
