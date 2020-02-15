@@ -1,6 +1,8 @@
-# Frontend Workshops 🎓✨
+![Frontend Workshops](social.png)
 
 A collection of training notes and exercises covering a range of frontend topics.
+
+---
 
 ## Topics covered
 
@@ -19,7 +21,9 @@ A collection of training notes and exercises covering a range of frontend topics
     *  for Vue components
     *  for Vuex store modules
 
-# Getting started
+---
+
+## Getting started
 
 You will need:
 
@@ -27,7 +31,7 @@ You will need:
 *  A GitHub account
 *  A CodeSandbox account
 
-## Steps
+### Steps
 
 1. Log into [CodeSandbox](https://codesandbox.io);
 2. Click on **Create Sandbox**, then **Import Project**;
