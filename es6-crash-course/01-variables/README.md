@@ -78,7 +78,6 @@ person = {
 
 ## Browser Support
 
-![Browser support for `let`](https://res.cloudinary.com/ireaderinokun/image/upload/v1583930695183/caniuse-embed/all/let.png)
+<img src="https://res.cloudinary.com/ireaderinokun/image/upload/v1583930695183/caniuse-embed/all/let.png" width="550" alt="Browser support for let">
 
-
-![Browser support for `const`](https://res.cloudinary.com/ireaderinokun/image/upload/v1583930695183/caniuse-embed/all/const.png)
+<img src="https://res.cloudinary.com/ireaderinokun/image/upload/v1583930695183/caniuse-embed/all/const.png" width="550" alt="Browser support for const">

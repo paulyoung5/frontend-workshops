@@ -125,4 +125,4 @@ function internationalised (strings, name) {
 
 ## Browser Support
 
-![Browser support for Template Literals](https://res.cloudinary.com/ireaderinokun/image/upload/v1583930695183/caniuse-embed/all/template-literals.png)
+<img src="https://res.cloudinary.com/ireaderinokun/image/upload/v1583930695183/caniuse-embed/all/template-literals.png" width="550" alt="Browser support for Template Literals">

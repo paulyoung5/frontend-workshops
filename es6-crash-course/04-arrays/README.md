@@ -12,9 +12,9 @@
 
 ## Browser Support
 
-![Browser support for `.includes()`](https://res.cloudinary.com/ireaderinokun/image/upload/v1583930695183/caniuse-embed/all/array-includes.png)
+<img src="https://res.cloudinary.com/ireaderinokun/image/upload/v1583930695183/caniuse-embed/all/array-includes.png" width="550" alt="Browser support for Array.prototype.includes()">
 
-![Browser support for `.find()`](https://res.cloudinary.com/ireaderinokun/image/upload/v1583930695183/caniuse-embed/all/array-find.png)
+<img src="https://res.cloudinary.com/ireaderinokun/image/upload/v1583930695183/caniuse-embed/all/array-find.png" width="550" alt="Browser support for Array.prototype.find()">
 
 Others:
 *  **Destructuring and spread:** see Browser Compatability [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)

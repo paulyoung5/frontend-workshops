@@ -87,4 +87,4 @@ function SomeModal () {
 
 ## Browser Support
 
-![Browser support for Arrow Functions](https://res.cloudinary.com/ireaderinokun/image/upload/v1583930695183/caniuse-embed/all/arrow-functions.png)
+<img src="https://res.cloudinary.com/ireaderinokun/image/upload/v1583930695183/caniuse-embed/all/arrow-functions.png" width="550" alt="Browser support for Arrow Functions">
