@@ -51,7 +51,9 @@ const list = `Shopping list
 - grapes`
 ```
 
-## Tagged templates
+The above is likely to be enough for now, but read on for more new cool stuff possible with strings.
+
+## More: Tagged templates
 
 **Tagged templates** are another new feature, where we can prepend a function name onto a template literal:
 
