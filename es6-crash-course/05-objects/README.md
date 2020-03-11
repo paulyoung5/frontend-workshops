@@ -179,3 +179,9 @@ const combined = {
 ```
 
 **Note:** when merging objects containing properties with the same name, the value of that property is taken from the last object to be spread in.
+
+---
+
+## Browser Support
+
+Check out the [Browser Compatability](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer) section on MDN.

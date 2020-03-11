@@ -120,3 +120,9 @@ function internationalised (strings, name) {
 ## Further reading
 
 *  [Template literals (Template strings) - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
+
+---
+
+## Browser Support
+
+![Browser support for Template Literals](https://res.cloudinary.com/ireaderinokun/image/upload/v1583930695183/caniuse-embed/all/template-literals.png)

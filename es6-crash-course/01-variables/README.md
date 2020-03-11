@@ -73,3 +73,12 @@ person = {
   age: 46
 } // 🚫 TypeError: invalid assignment to const `person`
 ```
+
+---
+
+## Browser Support
+
+![Browser support for `let`](https://res.cloudinary.com/ireaderinokun/image/upload/v1583930695183/caniuse-embed/all/let.png)
+
+
+![Browser support for `const`](https://res.cloudinary.com/ireaderinokun/image/upload/v1583930695183/caniuse-embed/all/const.png)

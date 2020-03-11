@@ -108,4 +108,12 @@ fetch('mywebsite.com/data', {
 
 ##  async/await
 
-(TBD)
+Marking a function as **async** makes it possible to treat a function returning a `Promise` as if it were synchronous.
+
+---
+
+## Browser Support
+
+![Browser support for Promises](https://res.cloudinary.com/ireaderinokun/image/upload/v1583930695183/caniuse-embed/all/promises.png)
+
+See [Browser Compatability](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function) on MDN for support data on async/await.

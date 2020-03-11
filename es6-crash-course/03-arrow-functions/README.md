@@ -82,3 +82,9 @@ function SomeModal () {
 ## Further reading
 
 *  [Arrow function expressions - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+
+---
+
+## Browser Support
+
+![Browser support for Arrow Functions](https://res.cloudinary.com/ireaderinokun/image/upload/v1583930695183/caniuse-embed/all/arrow-functions.png)
